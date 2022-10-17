@@ -7,11 +7,13 @@
     <title>Devika Ajith</title>
 </head>
 <body>
-    <h1>Name</h1>
-    <h3>About</h3>
-    <h4>Type About here</h4>
-    <img src="" alt="">
-    <img src="" alt="">
-    <img src="" alt="">
+    <h1>Devika Ajith</h1>
+    <h3>About:</h3>
+    <h4>Student of EC5B, Govt.Model Engineering College,Kochi.I am interested in designing and coding.</h4>
+    <img src="HTML_CSS_JS.png" alt="HTML,CSS,JS">
+    <img src="adobe-illustrator.png" alt="Adobe Illustrator">
+    <img src="adobe_photoshop.png" alt="Adobe Photoshop">
+    <img src="download.png" alt="React">
+    <img src="Flutter.png" alt="Flutter">
 </body>
 </html>
